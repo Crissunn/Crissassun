@@ -1,15 +1,13 @@
-### :wave: Hello. Nice to see you.
+### :wave: Nice to see you.
 
 
 Hi there, my name is Cristian Gomez, currently I’m working at Tata Consultancy in Citibanamex project as Site Reliability Engineer.<br>I implement automations using Ansible, Shell scripts, Jenkins, Git repositories, Python scripts. To create scalable and reliable solutions for production environment on Linux base systems in order to reduce incidents, MIM or customer impacts in our daily tasks.
 
 
-## 🌐 Socials:
+<h3 align="left">Connect with me:</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agcristian) 
-<h1 align="center">Hi 👋, I'm Cristian Gomez</h1>
-<h3 align="center">A passionate on Linux OS from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crissassun&label=Profile%20views&color=0e75b6&style=flat" alt="crissassun" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
