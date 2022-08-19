@@ -25,7 +25,7 @@ Hi there, my name is Cristian Gomez, currently I’m working at Tata Consultancy
 
 ## Language
 
-Spanish native
-English no native
+- Spanish native
+- English no native
 
 -->
