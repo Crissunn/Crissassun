@@ -21,4 +21,11 @@ Hi there, my name is Cristian Gomez, currently I’m working at Tata Consultancy
 - Docker
 - Azure
 
+----
+
+## Language
+
+Spanish native
+English no native
+
 -->
