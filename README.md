@@ -19,7 +19,7 @@ Hi there, my name is Cristian Gomez, I work at Tata Consultancy Services with +4
 - Python Scripts
 - Splunk
 - Docker
-- Azure
+- AWS
 
 ----
 
