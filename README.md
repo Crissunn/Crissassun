@@ -1,7 +1,7 @@
 ### :wave: Nice to see you.
 ----
 <p class="text-justify">
-Hi there, my name is Cristian Gomez, I work at Tata Consultancy Services with +4 years of experience. Currently, I’m working in Citibanamex project as Site Reliability Engineer, I implement automations to reduce toils, and achieve our service level objectives in order to have scalable and reliable solutions for production support to reduce incidents, MIM or customer impacts in our daily day.
+Hi there, my name is Cristian Gomez, I’m working  as Site Reliability Engineer, I implement automations to reduce toils, and achieve our service level objectives in order to have scalable and reliable solutions for production support to reduce incidents, MIM or customer impacts in our daily day.
 </p>
 
 ----
