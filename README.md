@@ -11,7 +11,7 @@ Hello, my name is Cristian Gomez. I have been working at Tata Consultancy Servic
 
 
 
-<h3 align="left">Connect with me:</h3>
+##Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agcristian) 
 
