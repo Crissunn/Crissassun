@@ -6,6 +6,7 @@ Hello, my name is Cristian Gomez. I have been working at Tata Consultancy Servic
 ----
 ## Resource on gitHub
 - [Cheat-Sheets](https://github.com/Crissassun/Linux-Cheat-Sheets) -  My personal knowledge-base.
+
 ----
 
 <h3 align="left">Connect with me:</h3>
