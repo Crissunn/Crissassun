@@ -20,8 +20,7 @@ Hello, my name is Cristian Gomez. I have been working at Tata Consultancy Servic
 
 - Linux OS
 - Shell Script
-- Ansible
-- Git 
+- Ansible 
 - Python 
 - Splunk
 
