@@ -18,8 +18,8 @@ Hello, my name is Cristian Gomez. I have been working at Tata Consultancy Servic
 
 ## Tech Stack:
 
-- Linux OS
-- Shell Script
+- Linux
+- Bash Script
 - Ansible 
 - Python 
 - Splunk
