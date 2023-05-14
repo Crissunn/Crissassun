@@ -1,7 +1,7 @@
 ## :wave: Nice to see you.
 
 <p class="text-justify">
-Hello, my name is Cristian Gomez. I have been working at Tata Consultancy Services for over 4 years. Currently, I am a Site Reliability Engineer on the Citibanamex project.
+I'm Cristian Gómez, and I am a passionate Site Reliability Engineer (SRE) who is enthusiastic about technology and creating projects. Currently, I reside in Mexico and enjoy the beauty of the forest and the cool days.
 </p>
 
 
