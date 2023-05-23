@@ -1,7 +1,8 @@
 ## :wave: Nice to see you.
 
 <p class="text-justify">
-I'm Cristian Gómez, and I am a passionate Site Reliability Engineer (SRE) who is enthusiastic about technology and creating projects. Currently, I reside in Mexico and enjoy the beauty of the forest and the cool days.
+My name is Cristian Gómez, and I am a passionate Site Reliability Engineer (SRE) with a strong enthusiasm for technology and project creation. I currently reside in Mexico, where I take pleasure in the stunning forests and refreshing days.
+
 </p>
 
 
@@ -28,7 +29,7 @@ I'm Cristian Gómez, and I am a passionate Site Reliability Engineer (SRE) who i
 
 ## Language
 
-- Spanish native
-- English no native
+- Native Spanish speaker
+- English as a non-native language
 
 
